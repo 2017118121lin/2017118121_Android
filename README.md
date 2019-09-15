@@ -31,7 +31,7 @@ dependencies {
         classpath 'com.android.tools.build:gradle:2.3.0'
 }
 修改成
- dependencies {
+dependencies {
         classpath 'com.android.tools.build:gradle:3.5.0'    
 }
 

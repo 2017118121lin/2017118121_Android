@@ -17,7 +17,7 @@
             android:label="Hello3" android:launchMode="singleTop"/>
         <activity
             android:name=".Hello1"
-            android:label="Hello1" android:launchMode="singleTop">
+            android:label="Hello1" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

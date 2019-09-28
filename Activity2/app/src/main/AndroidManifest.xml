@@ -11,13 +11,13 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".Hello2"
-            android:label="Hello2" android:launchMode="singleTop"/>
+            android:label="Hello2" android:launchMode="singleTask"/>
         <activity
             android:name=".Hello3"
-            android:label="Hello3" android:launchMode="singleTop"/>
+            android:label="Hello3" android:launchMode="singleTask"/>
         <activity
             android:name=".Hello1"
-            android:label="Hello1" android:launchMode="singleTop">
+            android:label="Hello1" android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

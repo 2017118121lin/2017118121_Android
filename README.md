@@ -1,27 +1,38 @@
 # 2017118121_Android
-´´½¨HelloWorld³ÌĞòÖĞËùÓöµ½µÄÎÊÌâ
+åˆ›å»ºHelloWorldç¨‹åºä¸­æ‰€é‡åˆ°çš„é—®é¢˜
 
-1¡¢½«ÏîÄ¿ÓëÔ¶³Ì²Ö¿â¹ØÁª,ĞèÒª½øĞĞÈçÏÂ²Ù×÷£º
-a¡¢AndroidStudioÖĞÅäÖÃgit£¬¿ÉÒÔsetting¨C>Version Control¨C>GitÖĞ²é¿´ÊÇ·ñÒÑÅäÖÃ
-b¡¢´´½¨±¾µØ²Ö¿â£¬½øÈëVCS,µã»÷Import into Version ControlÖĞµÄCreatGitRepository
-c¡¢½«ÏîÄ¿ÓëÔ¶³Ì²Ö¿â¹ØÁª£¬½øÈëVCS,µã»÷GitÖĞµÄRemotes£¬È»ºó½«Òª¹ØÁªµÄ²Ö¿âÁ´½ÓÌîÈë
-d¡¢È»ºóÔÚsourcestreeÌí¼Ó±¾µØ²Ö¿â¼´¿É
+1ã€å°†é¡¹ç›®ä¸è¿œç¨‹ä»“åº“å…³è”,éœ€è¦è¿›è¡Œå¦‚ä¸‹æ“ä½œï¼š
+aã€AndroidStudioä¸­é…ç½®gitï¼Œå¯ä»¥settingâ€“>Version Controlâ€“>Gitä¸­æŸ¥çœ‹æ˜¯å¦å·²é…ç½®
+![Image text](https://github.com/2017118121lin/2017118121_Android/raw/master/README%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%871.png)
+
+bã€åˆ›å»ºæœ¬åœ°ä»“åº“ï¼Œè¿›å…¥VCS,ç‚¹å‡»Import into Version Controlä¸­çš„CreatGitRepository
+![Image text](https://github.com/2017118121lin/2017118121_Android/raw/master/README%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%872.png)
+
+cã€å°†é¡¹ç›®ä¸è¿œç¨‹ä»“åº“å…³è”ï¼Œè¿›å…¥VCS,ç‚¹å‡»Gitä¸­çš„Remotesï¼Œç„¶åå°†è¦å…³è”çš„ä»“åº“é“¾æ¥å¡«å…¥
+
+![Image text](https://github.com/2017118121lin/2017118121_Android/raw/master/README%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%873.png)
+![Image text](https://github.com/2017118121lin/2017118121_Android/raw/master/README%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%874.png)
+
+dã€ç„¶ååœ¨sourcestreeæ·»åŠ æœ¬åœ°ä»“åº“å³å¯
+
+![Image text](https://github.com/2017118121lin/2017118121_Android/raw/master/README%E5%9B%BE%E7%89%87/%E5%9B%BE%E7%89%875.PNG)
 
 
-2¡¢½â¾öµ¼ÈëHelloWorld³ÌĞò¹ı³ÌÖĞÓöµ½µÄÎÊÌâ
-a¡¢µ¼ÈëµÄ³ÌĞò´æÔÚ°æ±¾¼æÈİÎÊÌâ£¬ĞèÒª½«gradle-wrapper.propertiesÖĞµÄ
+
+2ã€è§£å†³å¯¼å…¥HelloWorldç¨‹åºè¿‡ç¨‹ä¸­é‡åˆ°çš„é—®é¢˜
+aã€å¯¼å…¥çš„ç¨‹åºå­˜åœ¨ç‰ˆæœ¬å…¼å®¹é—®é¢˜ï¼Œéœ€è¦å°†gradle-wrapper.propertiesä¸­çš„
 distributionUrl=https\://services.gradle.org/distributions/gradle-3.3-all.zip
-ĞŞ¸Ä³É×Ô¼ºµÄ°æ±¾
+ä¿®æ”¹æˆè‡ªå·±çš„ç‰ˆæœ¬
 distributionUrl=https\://services.gradle.org/distributions/gradle-5.4.1-all.zip
 
 
-b¡¢Òª½«build.gradleµÄ 
+bã€è¦å°†build.gradleçš„ 
 dependencies {
         classpath 'com.android.tools.build:gradle:2.3.0'
 }
-ĞŞ¸Ä³É
- dependencies {
+ä¿®æ”¹æˆ
+dependencies {
         classpath 'com.android.tools.build:gradle:3.5.0'    
 }
 
-c¡¢ÔÚ repositoriesÖĞ¼ÓÈë  google()
+cã€åœ¨ repositoriesä¸­åŠ å…¥  google()

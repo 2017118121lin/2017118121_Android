@@ -1,3 +1,34 @@
+作业目录
+第1次作业：HelloWorld
+内容：创建一个HelloWorld项目
+
+第2次作业：Activity
+内容：做两个helloworld活动，分别是helloworld1和helloworld2要求此两个活动之间能切换
+
+第3次作业：Activity2
+内容：创建三个活动，分别使用四个模式，实现堆栈，出栈
+
+第4次作业：Intent
+内容：用隐式intent召唤浏览器，地图和拨号
+
+第5次作业：RecyclerViewTest
+内容：用RecyclerView做一个增删改的程序
+
+第6次作业：Thread
+内容：用多线程编程，做一个在一定秒数自加，自加后可回溯的程序
+
+第7次作业：AsyncTask
+内容：利用AsyncTask的异步消息处理机制，实现虚拟下载任务
+
+第8次作业：ServiceBestPractice
+内容：创建service，实现完整版的下载服务
+
+
+
+
+
+
+
 # 2017118121_Android
 创建HelloWorld程序中所遇到的问题
 

@@ -31,7 +31,7 @@ public class DownloadService extends Service {
             downloadTask = null;
             // 下载成功时将前台服务通知关闭，并创建一个下载成功的通知
             stopForeground(true);
-            getNotificationManager().notify(1, getNotification("Download Success", -1));
+            getNotificationManager().notify(1, getNotification("Download Success!", -1));
             Toast.makeText(DownloadService.this, "Download Success", Toast.LENGTH_SHORT).show();
         }
 

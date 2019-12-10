@@ -1,43 +1,43 @@
 作业目录
 ========
-#第1次作业：HelloWorld
-
-内容：创建一个HelloWorld项目
+第1次作业：HelloWorld
+---------
+内容：创建一个HelloWorld项目<br><br>
 
 
 第2次作业：Activity
-
-内容：做两个helloworld活动，分别是helloworld1和helloworld2要求此两个活动之间能切换
+---------
+内容：做两个helloworld活动，分别是helloworld1和helloworld2要求此两个活动之间能切换<br><br>
 
 
 第3次作业：Activity2
-
-内容：创建三个活动，分别使用四个模式，实现堆栈，出栈
+---------
+内容：创建三个活动，分别使用四个模式，实现堆栈，出栈<br><br>
 
 
 第4次作业：Intent
-
-内容：用隐式intent召唤浏览器，地图和拨号
+---------
+内容：用隐式intent召唤浏览器，地图和拨号<br><br>
 
 
 第5次作业：RecyclerViewTest
-
-内容：用RecyclerView做一个增删改的程序
+---------
+内容：用RecyclerView做一个增删改的程序<br><br>
 
 
 第6次作业：Thread
-
-内容：用多线程编程，做一个在一定秒数自加，自加后可回溯的程序
+---------
+内容：用多线程编程，做一个在一定秒数自加，自加后可回溯的程序<br><br>
 
 
 第7次作业：AsyncTask
-
-内容：利用AsyncTask的异步消息处理机制，实现虚拟下载任务
+---------
+内容：利用AsyncTask的异步消息处理机制，实现虚拟下载任务<br><br>
 
 
 第8次作业：ServiceBestPractice
-
-内容：创建service，实现完整版的下载服务
+---------
+内容：创建service，实现完整版的下载服务<br><br>
 
 
 
